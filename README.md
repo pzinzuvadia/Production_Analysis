@@ -26,7 +26,7 @@ This repository showcases an **Excel-based dashboard** designed for analyzing pr
 ![Dashboard Overview](Images/Dashboard.png)
 
 ## 🚀 How to Use
-1. Download the Excel file: [Excel+Report+2.xlsx](./Excel+Report+2.xlsx).
+1. Download the Excel file: [Excel+Report+2.xlsx](./Production_Dashboard.xlsx).
 2. Open the file in Microsoft Excel (2016 or later recommended).
 3. Navigate to the **Production Dashboard** sheet to view the visual insights.
 4. Explore pivot tables for detailed analysis and drill-down capabilities.
