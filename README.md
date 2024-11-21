@@ -22,6 +22,9 @@ This repository showcases an **Excel-based dashboard** designed for analyzing pr
 - **Data Summarization**: Pivot tables condense large datasets into meaningful summaries.
 - **Customizable Analysis**: Easily adjust filters and views to explore different aspects of the data.
 
+## Glimes of Dashboard
+![Dashboard Overview](Images/Dashboard.png)
+
 ## 🚀 How to Use
 1. Download the Excel file: [Excel+Report+2.xlsx](./Excel+Report+2.xlsx).
 2. Open the file in Microsoft Excel (2016 or later recommended).
@@ -33,7 +36,3 @@ This dashboard is ideal for:
 - Production analysis and tracking.
 - Identifying trends and patterns in operational data.
 - Decision-making based on visualized KPIs.
-
-## 📝 Notes
-- Ensure macros (if any) are enabled for full functionality.
-- The dashboard is designed to be interactive and user-friendly but may require Excel's advanced features for modifications.
